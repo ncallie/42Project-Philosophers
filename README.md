@@ -7,9 +7,6 @@ This project is also a good lesson in C optimization as we need to save every bi
 **philo_two:** multi-threads and use of semaphore  
 **philo_three:** multi-processes and use of semaphore
 
-**If you are a 42 student visiting this project, please do not copy/paste and make sure to always understand the code you are writing.**
-
-
 # Rules
 ```
 • This project is to be coded in C, following the 42 Norm. Any leak, crash, undefined
